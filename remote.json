@@ -1,5 +1,5 @@
 [{
-    "lock" : "",
-    "html" : "",
-    "script" : ""
+    "lock" : "https://rawcdn.githack.com/pamanbobb/barsom/a4f6381ee83cc4b2b6eb49094aaee391e82be53e/auth.html",
+    "html" : "https://rawcdn.githack.com/pamanbobb/barsom/a4f6381ee83cc4b2b6eb49094aaee391e82be53e/tampering.html",
+    "script" : "https://rawcdn.githack.com/pamanbobb/barsom/a4f6381ee83cc4b2b6eb49094aaee391e82be53e/cdn.js"
 }]
